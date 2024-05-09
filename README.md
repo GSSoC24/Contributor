@@ -1,6 +1,6 @@
 # Contributor
 GSSoC is a 3-month long #OpenSource program by GirlScript Foundation, India. This is Contributor Space.
-
+#### Check out Discussion board for more FAQ :https://github.com/GSSoC24/Contributor/discussions
 ## Common FAQ
 - what are the points distribution this time for PR's ?
 <br>Ans: Every PR one point
