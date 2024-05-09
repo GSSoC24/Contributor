@@ -3,13 +3,13 @@ GSSoC is a 3-month long #OpenSource program by GirlScript Foundation, India. Thi
 
 ## Common FAQ
 - what are the points distribution this time for PR's ?
-- Ans: Every PR one point
-  Level 1: 10 points
-  Level 2: 25 points
-  Level 3: 45 points
-  Levels are classified by difficulty level which is calculated by core team. Also labels will be mentioned on each review
+<br>Ans: Every PR one point
+- Level 1: 10 points
+- Level 2: 25 points
+- Level 3: 45 points
+- Levels are classified by difficulty level which is calculated by core team. Also labels will be mentioned on each review
   And Leaderboard will update twice a day automatically
-
+<be>
   Note: Leaderboard will take 1 or 2 days after May 10 to update , afterwards you can see updates daily.
 
 -  how many PRs should be merged in to maintain positions on the leaderboard?
