@@ -6,8 +6,19 @@ GSSoC is a 3-month long #OpenSource program by GirlScript Foundation, India. Thi
 - [] Check out the Discussion board for more FAQ:https://github.com/GSSoC24/Contributor/discussions
 - [] Mentor Assigned to the Project List:
 - [] Regarding Certificate after participation: https://github.com/GSSoC24/Contributor/discussions/33
-- [] If you haven't received the Confirmation Mail: 
+- [] If you haven't received the Confirmation Mail:
 
+## How to Start Contributing:
+
+- First visit [Gssoc'24 Projects](https://gssoc.girlscript.tech/project)  and choose any projects according to your skills.
+- Go to the github page of that project and explore it.
+- To contrubute into project you can directly go to issue section and solve the already existing problems or you can post new issues or improvment according to 
+  you and discuss the solution with the team in comments.
+- For solving the issue ask the project admin to assign the respective task to you.
+- To make changes into the project fork the repository, and make changes into it. After making changes make a Pull Request for the same.
+- After reviewing your pull request they will accept your request and you have contributed successfully.
+
+Hope it helps you please mark it as answer if it solves your query.
 
 ## Common FAQ
 - what are the points distribution this time for PR's ?
