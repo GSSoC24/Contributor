@@ -8,7 +8,9 @@ This is Contributor Space where all the relevant link regarding your doubts.
 - Mentor Assigned to the Project List: https://bit.ly/3UVRkgM
 - Regarding Certificate after participation: https://github.com/GSSoC24/Contributor/discussions/33
 - If you haven't received the Confirmation Mail: https://github.com/GSSoC24/Contributor/discussions/96
-- How to contribute: https://github.com/GSSoC24/Contributor/discussions/34
+- How to contribute: https://github.com/GSSoC24/Contributor/discussions/34.
+- How to start with GitHub https://recodehive.com/github-tutorials/
+- blog to read https://gssoc.girlscript.tech/blog
 
 Issue will be assigned to Only 1 person ...FCFS basis. Others get a chance if the issue gets stale & the assignee is inactive for 5+ days
 
@@ -17,6 +19,8 @@ Issue will be assigned to Only 1 person ...FCFS basis. Others get a chance if th
 🌟 How to Contribute to GSSoC Projects: A Step-by-Step Guide 🌟
 
 Must watch the youtube link on Guidelines: https://youtu.be/Y9PYaPZgikg <br>
+![Sanjay Viswanathan Event](https://github.com/GSSoC24/Contributor/assets/30715153/77414867-2ffa-4a82-ba9a-d5a11a8334ea)
+
 A: Choosing Projects
 
 1️⃣ 🌐Visit the GSSoC Website: Head to the official GSSoC website and navigate to the projects section. [Here](https://gssoc.girlscript.tech/project)
