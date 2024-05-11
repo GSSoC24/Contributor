@@ -23,7 +23,8 @@ A: Choosing Projects
 3️⃣ 🔎Get Project Details: Click on the project to view its details, including a video overview and the GitHub repository link.
 
 
-🚀B: Getting Started with Contribution
+
+## Getting Started with Contribution
 
 🛠️B1: Setting Up The Project
 
@@ -57,7 +58,8 @@ $ git remote -v
 ```bash
 $ git pull upstream main
 ```
-🏗️B2: Contributing To The Project
+
+## Contributing To The Project
 
 1️⃣ 🌿Branch Out: Create a new branch with a meaningful name.
 
