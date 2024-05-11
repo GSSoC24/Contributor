@@ -3,6 +3,7 @@
 
 GSSoC is a 3-month long #OpenSource program by GirlScript Foundation, India. <br>
 This is Contributor Space where all the relevant link regarding your doubts. 
+#### Make sure you star the repository before forking this is the way to show 💖 to the owner of the repository. 
 
 - If you have questions ask here -> :https://github.com/GSSoC24/Contributor/discussions
 - Mentor Assigned to the Project List: https://bit.ly/3UVRkgM
