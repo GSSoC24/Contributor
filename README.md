@@ -10,10 +10,13 @@ This is Contributor Space where all the relevant link regarding your doubts.
 - If you haven't received the Confirmation Mail: https://github.com/GSSoC24/Contributor/discussions/96
 - How to contribute: https://github.com/GSSoC24/Contributor/discussions/34
 
+Issue will be assigned to Only 1 person ...FCFS basis. Others get a chance if the issue gets stale & the assignee is inactive for 5+ days
+
 ## How to Start Contributing: 
 
 🌟 How to Contribute to GSSoC Projects: A Step-by-Step Guide 🌟
 
+Must watch the youtube link on Guidelines: https://youtu.be/Y9PYaPZgikg
 A: Choosing Projects
 
 1️⃣ 🌐Visit the GSSoC Website: Head to the official GSSoC website and navigate to the projects section. [Here](https://gssoc.girlscript.tech/project)
