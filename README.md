@@ -16,7 +16,7 @@ Issue will be assigned to Only 1 person ...FCFS basis. Others get a chance if th
 
 🌟 How to Contribute to GSSoC Projects: A Step-by-Step Guide 🌟
 
-Must watch the youtube link on Guidelines: https://youtu.be/Y9PYaPZgikg
+Must watch the youtube link on Guidelines: https://youtu.be/Y9PYaPZgikg <br>
 A: Choosing Projects
 
 1️⃣ 🌐Visit the GSSoC Website: Head to the official GSSoC website and navigate to the projects section. [Here](https://gssoc.girlscript.tech/project)
