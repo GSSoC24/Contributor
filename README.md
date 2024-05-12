@@ -117,5 +117,5 @@ This is how it should look like
   Note: Leaderboard will take 1 or 2 days after May 10 to update , afterwards you can see updates daily.
 
 -  how many PRs should be merged in to maintain positions on the leaderboard?
--   Ans: its not above PR, the best way to mainitain position on leaderboard is contribute to high difficult issue raised by mainitainer.
-      As mentioned above Level 1, level 2, level 3 helps them to mainitain their position rather pushing many PR as the score is high for levels
+-   Ans: its not above PR, the best way to maintain position on leaderboard is contribute to high difficult issue raised by maintainer.
+      As mentioned above Level 1, level 2, level 3 helps them to maintain their position rather pushing many PR as the score is high for levels
