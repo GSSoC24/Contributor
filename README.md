@@ -103,7 +103,8 @@ Hope it helps you please mark it as answer if it solves your query.
 - What all label we should check?
 <br>Ans: Make sure you check the labels gssoc, level1,level2,level3 on issues.
 
-This is how it should look like 
+This is how it should look like,
+
 ![WhatsApp Image 2024-05-11 at 15 56 22_92229ded](https://github.com/GSSoC24/Contributor/assets/30715153/ffe6208f-21f9-4262-808e-31f3b2bc0a07)
 
 - what are the points distribution this time for PR's ?
@@ -117,5 +118,5 @@ This is how it should look like
   Note: Leaderboard will take 1 or 2 days after May 10 to update , afterwards you can see updates daily.
 
 -  how many PRs should be merged in to maintain positions on the leaderboard?
--   Ans: its not above PR, the best way to mainitain position on leaderboard is contribute to high difficult issue raised by mainitainer.
-      As mentioned above Level 1, level 2, level 3 helps them to mainitain their position rather pushing many PR as the score is high for levels
+-   Ans: its not above PR, the best way to maintain position on leaderboard is contribute to high difficult issue raised by maintainer.
+      As mentioned above Level 1, level 2, level 3 helps them to maintain their position rather pushing many PR as the score is high for levels
