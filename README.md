@@ -12,6 +12,8 @@ This is Contributor Space where all the relevant link regarding your doubts.
 - How to contribute: https://github.com/GSSoC24/Contributor/discussions/34.
 - How to start with GitHub https://recodehive.com/github-tutorials/
 - blog to read https://gssoc.girlscript.tech/blog
+- Removed Projects: https://docs.google.com/spreadsheets/d/1lcbwU8sfrc-tUOe3spcLMb2uW2W8joGI6BM-ZetDehY/edit?usp=sharing
+- Selected Active Projects: https://docs.google.com/spreadsheets/d/1owUjczBew3FgLWqW73ND96raatUCkJZtytjjZBlK7cI/edit?usp=sharing
 
 Issue will be assigned to Only 1 person ...FCFS basis. Others get a chance if the issue gets stale & the assignee is inactive for 5+ days
 
