@@ -110,7 +110,7 @@ This is how it should look like,
 ![WhatsApp Image 2024-05-11 at 15 56 22_92229ded](https://github.com/GSSoC24/Contributor/assets/30715153/ffe6208f-21f9-4262-808e-31f3b2bc0a07)
 
 - what are the points distribution this time for PR's ?
-<br>Ans: Every PR one point
+<br>Ans: 
 - Level1: 10 points
 - Level2: 25 points
 - Level3: 45 points
