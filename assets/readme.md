@@ -28,4 +28,20 @@ Contributor Related Issues.
 
 
 Unresponsive repo: 
-ML-CaPsule
+1. ML-CaPsule
+2. ALL_INDIA_HACKATHON
+3. mystory
+4. FoodiesWeb
+5. https://github.com/ChromeGaming/GameSphere
+6. FitBody
+7. https://github.com/Sahil1786/Petari
+8. Eduford-University.
+9. https://github.com/shrawani21/gamer_21/pull/43
+10. https://github.com/Kavin56/learn-python/pull/1
+11. https://github.com/Rajan-Barnwal/jobproject/issues/248
+12. https://github.com/JiyaGupta-cs/ShopNex/pull/307
+13. https://github.com/bishalde/Shrinkk/pull/65
+14. https://github.com/bishalde/TaskMate/pull/14
+15. https://github.com/juhinagpure/Eduford-university/issues/65
+16. https://github.com/Mayank2808sharma/IRCTC-backend
+17. https://github.com/piug-07/blogzen-OpenSource/pull/167
