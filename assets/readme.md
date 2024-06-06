@@ -11,6 +11,7 @@ Project Related Issues.
 7.  All the other mentors should be active, if they are not then they will be removed.
 8.  Come online and visit repo two times a day.
 9.  If we open a project channel for the contributors they will make queries only on that particular channel.
+10. Good review approach, do everything at one go rather than demand over PR. Use Discussion boards.
    
 
 
