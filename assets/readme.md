@@ -46,3 +46,5 @@ Unresponsive repo:
 15. https://github.com/juhinagpure/Eduford-university/issues/65
 16. https://github.com/Mayank2808sharma/IRCTC-backend
 17. https://github.com/piug-07/blogzen-OpenSource/pull/167
+18. shrawani21/gamer_21#97
+19. shrawani21/gamer_21#79
