@@ -3,10 +3,10 @@
 Hello contributors, we hope all are doing great! :octocat:
 
 This year is very special compared to previous years because we have more than 27k contributors from various countries and the highest PR requests compared to all other GSSoC events and ofcourse we rank top on spamming contributions as well. 😅<br>
-[How to do first contribution](https://github.com/GSSoC24/Contributor/discussions/175)
-[How to get GitHub Achievement badge](https://github.com/GSSoC24/Contributor/discussions/11)
-[Leaderboard updates](https://github.com/GSSoC24/Contributor/discussions/288)
-[GSSOC Certification for contributors](https://github.com/GSSoC24/Contributor/discussions/33)
+`[How to do first contribution]`(https://github.com/GSSoC24/Contributor/discussions/175)
+`[How to get GitHub Achievement badge]`(https://github.com/GSSoC24/Contributor/discussions/11)
+`[Leaderboard updates]`(https://github.com/GSSoC24/Contributor/discussions/288)
+`[GSSOC Certification for contributors]`(https://github.com/GSSoC24/Contributor/discussions/33)
 
  ![image](https://github.com/GSSoC24/Contributor/assets/30715153/9f7c800e-f28c-4916-919c-cf082d4552fc)
 
