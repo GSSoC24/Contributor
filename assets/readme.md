@@ -15,8 +15,10 @@ This year is very special compared to previous years because we have more than 2
 4. [Instructions for Mentors and Project Admins (PAs)](#instructions-for-mentors-and-project-admins-pas)
 5. [How to Detect Spam and Fake Contributions](#how-to-detect-spam-and-fake-contributions)
 6. [Why We Enforce These Rules](#why-we-enforce-these-rules)
-7. [Flagged Projects and PRs](#flagged-projects-and-prs)
-8. [Final Notes](#final-notes)
+7. [How to detect spam contributions](#HOW-TO-DETECT-SPAMS-AND-FAKE-CONTRIBUTIONS)
+8. [Flagged Projects and PRs](#flagged-projects-and-prs)
+9. [Final Notes](#final-notes)
+   
 
 ---
 
@@ -87,6 +89,44 @@ We aim to make this event fair and memorable for all by ensuring that only meani
 
 ---
 
+
+### HOW TO DETECT SPAMS AND FAKE CONTRIBUTIONS -
+
+## An example of this can be - 🔢
+
+1. Gaining high rep points for submission such as changing -> README.MD to README.md and getting levels for it.
+   ![image](https://github.com/GSSoC24/Contributor/assets/30715153/0e8d778d-aae4-412f-be8c-85ef5ad78cc2)
+
+3. Contributing to the same project but each PR is having very minimal changes. This could either be changing a line of code (without actually being Impactful) or changes that are not necessary in the first place. This doesn't have to be strictly in any one project or code, line except for a typo.
+   ![image](https://github.com/GSSoC24/Contributor/assets/30715153/1b11fdcd-6119-4f73-8faa-256883359bea)
+
+5. Contributors are being PA as well for some projects. This is where contributors ask PA to give high levels for very basic changes which is not actually right. 
+
+--- 
+
+### How to detect them - 💯
+
+1. If you find anyone pushing PR with changing a single change which are not necessary in a same project and gaining high reps for it. Kindly let us know @sanjay-kv
+2. If any PA is also accepting PR from any contributor which shouldn't be accepted in the first place or giving high reps or assigning labels that should not be given, kindly let us know @sanjay-kv
+3. Anyone who suspects someone who is contributing at a particular time and his/her PR instantly is getting accepted regardless of being an actual contribution, kindly let us know @sanjay-kv
+4. If anyone who suspects that PA is the contributor itself or vice versa, kindly let us know @sanjay-kv
+5. Even if you find anyone suspicious kindly let us know @sanjay-kv
+
+### Why are we doing this? - 👍
+
+This is being done keeping everyone in mind for being hardworking enough to contribute something meaningful even if it's something small. We are doing this to make this event fair and memorable for all.
+
+### Spam PRs or PRs Won't consider:
+1. If you create multiple Issues on documentation or workflow. Your PRs won't be considered.
+2. If you know the PA or mentor. If you take advantage of it to make more PRs. Your PRs won't be considered.
+3. If you completely depend on documentation or workflow or GitHub bots, Only the first 200 points will be considered. Focus on a variety of contributions.
+4. If you create a code snippet PR for example a PR for issue template, a PR for PR temple, etc. Your PRs won't be considered. 
+5. Contributors, you are free to create any number of PRs in any repos excluding few repo listed below. Sticking to a particular repo will give you a strong command of the project and the tech stack. However, if we see you spamming PRs or issues, severe action will be taken against you.
+samples: 
+
+Note: We request everyone to follow the above guidelines. We aim to make open source accessible to everyone, including beginners. If you all follow the instructions, it will help us bring more perks to you. Otherwise, it will push us to verify your PRs 
+
+
 ## Flagged Projects and PRs
 
 - **Unresponsive Repos**:
@@ -125,7 +165,7 @@ Wishing you all a happy contribution!! 👍
 Thanks & Regards,  
 GSSoC Team
 
----------------------------- Detailed description below. 
+---------------------------- Detailed description below. 👇🏻
 
 
 
@@ -154,36 +194,3 @@ Note: Meaningful contribution means
 11. If you are working on migration code, create PRs and issues based on the difficulty of the complete migration work. Discuss with mentors or PAs and create the issue accordingly.
 
 
-## HOW TO DETECT SPAMS AND FAKE CONTRIBUTIONS -
-
-## An example of this can be - 🔢
-
-1. Gaining high rep points for submission such as changing -> README.MD to README.md and getting levels for it.
-   ![image](https://github.com/GSSoC24/Contributor/assets/30715153/0e8d778d-aae4-412f-be8c-85ef5ad78cc2)
-
-3. Contributing to the same project but each PR is having very minimal changes. This could either be changing a line of code (without actually being Impactful) or changes that are not necessary in the first place. This doesn't have to be strictly in any one project or code, line except for a typo.
-   ![image](https://github.com/GSSoC24/Contributor/assets/30715153/1b11fdcd-6119-4f73-8faa-256883359bea)
-
-5. Contributors are being PA as well for some projects. This is where contributors ask PA to give high levels for very basic changes which is not actually right. 
-
-## How to detect them - 💯
-
-1. If you find anyone pushing PR with changing a single change which are not necessary in a same project and gaining high reps for it. Kindly let us know @sanjay-kv
-2. If any PA is also accepting PR from any contributor which shouldn't be accepted in the first place or giving high reps or assigning labels that should not be given, kindly let us know @sanjay-kv
-3. Anyone who suspects someone who is contributing at a particular time and his/her PR instantly is getting accepted regardless of being an actual contribution, kindly let us know @sanjay-kv
-4. If anyone who suspects that PA is the contributor itself or vice versa, kindly let us know @sanjay-kv
-5. Even if you find anyone suspicious kindly let us know @sanjay-kv
-
-## Why are we doing this? - 👍
-
-This is being done keeping everyone in mind for being hardworking enough to contribute something meaningful even if it's something small. We are doing this to make this event fair and memorable for all.
-
-### Spam PRs or PRs Won't consider:
-1. If you create multiple Issues on documentation or workflow. Your PRs won't be considered.
-2. If you know the PA or mentor. If you take advantage of it to make more PRs. Your PRs won't be considered.
-3. If you completely depend on documentation or workflow or GitHub bots, Only the first 200 points will be considered. Focus on a variety of contributions.
-4. If you create a code snippet PR for example a PR for issue template, a PR for PR temple, etc. Your PRs won't be considered. 
-5. Contributors, you are free to create any number of PRs in any repos excluding few repo listed below. Sticking to a particular repo will give you a strong command of the project and the tech stack. However, if we see you spamming PRs or issues, severe action will be taken against you.
-samples: 
-
-Note: We request everyone to follow the above guidelines. We aim to make open source accessible to everyone, including beginners. If you all follow the instructions, it will help us bring more perks to you. Otherwise, it will push us to verify your PRs 
