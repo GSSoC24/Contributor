@@ -60,4 +60,4 @@ These guidelines aim to maintain the integrity and quality of our open source pr
 
 Thank you for your cooperation and understanding.
 
-For more information, please refer to our detailed video explanation [here](https://www.loom.com/share/8f2c5e1f15694c88b3b15f48da600e80?sid=fa8f79a3-21ff-4776-84a0-48952a7601f
+For more information, please refer to our detailed video explanation [here](https://www.loom.com/share/8f2c5e1f15694c88b3b15f48da600e80?sid=fa8f79a3-21ff-4776-84a0-48952a7601f5)
