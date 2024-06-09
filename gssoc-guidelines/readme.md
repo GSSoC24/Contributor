@@ -118,18 +118,18 @@ This is being done keeping everyone in mind for being hardworking enough to cont
 
 ### How to detect them - 💯
 
-1. If you find anyone pushing PR with changing a single change which are not necessary in a same project and gaining high reps for it. Kindly let us know @sanjay-kv
-2. If any PA is also accepting PR from any contributor which shouldn't be accepted in the first place or giving high reps or assigning labels that should not be given, kindly let us know @sanjay-kv
-3. Anyone who suspects someone who is contributing at a particular time and his/her PR instantly is getting accepted regardless of being an actual contribution, kindly let us know @sanjay-kv
-4. If anyone who suspects that PA is the contributor itself or vice versa, kindly let us know @sanjay-kv
-5. Even if you find anyone suspicious kindly let us know @sanjay-kv
+1. If you find anyone pushing PR with changing a single change which are not necessary in a same project and gaining high reps for it. Kindly let us know . [report here](https://github.com/GSSoC24/Contributor/discussions/categories/q-a)
+2. If any PA is also accepting PR from any contributor which shouldn't be accepted in the first place or giving high reps or assigning labels that should not be given, [kindly let us know](https://github.com/GSSoC24/Contributor/discussions/categories/q-a)
+4. Anyone who suspects someone who is contributing at a particular time and his/her PR instantly is getting accepted regardless of being an actual contribution, kindly let us know [report here](https://github.com/GSSoC24/Contributor/discussions/categories/q-a)
+5. If anyone suspects that PA is the contributor itself or vice versa, kindly let us know @sanjay-kv
+6. Even if you find anyone suspicious kindly let us know . Mail us gssoc@girlscript.tech
 
 ---
 
 ### Spam PRs or PRs Won't consider:
 1. If you create multiple Issues on documentation or workflow. Your PRs won't be considered.
 2. If you know the PA or mentor. If you take advantage of it to make more PRs. Your PRs won't be considered.
-3. If you completely depend on documentation or workflow or GitHub bots, Only the first 200 points will be considered. Focus on a variety of contributions.
+3. If you completely depend on documentation or workflow or GitHub bots, Only the first 150 points will be considered. Focus on a variety of contributions.
 4. If you create a code snippet PR for example a PR for issue template, a PR for PR temple, etc. Your PRs won't be considered. 
 5. Contributors, you are free to create any number of PRs in any repos excluding few repo listed below. Sticking to a particular repo will give you a strong command of the project and the tech stack. However, if we see you spamming PRs or issues, severe action will be taken against you.
 samples: 
