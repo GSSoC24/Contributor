@@ -1,8 +1,9 @@
-# GSSoC Contribution Guidelines 🚀
+# GSSoC Contribution Guidelines :octocat:
 
-Hello contributors, we hope all are doing great! 🥇
+Hello contributors, we hope all are doing great! :octocat:
 
-This year is very special compared to previous years because we have more than 27k contributors from various countries, and the highest PR requests compared to all other GSSoC events.
+This year is very special compared to previous years because we have more than 27k contributors from various countries and the highest PR requests compared to all other GSSoC events and ofcourse we rank top on spamming contributions as well. 😅
+ ![image](https://github.com/GSSoC24/Contributor/assets/30715153/9f7c800e-f28c-4916-919c-cf082d4552fc)
 
 ---
 
@@ -23,22 +24,21 @@ This year is very special compared to previous years because we have more than 2
 
 We've noticed a rise in the number of cases where contributors gain high points for submissions that are not actual contributions.
 
-Every contributor should remember one thing: **Labels on PRs are a must**:
-- **GSSoC**
-- **level1**: 10 points
-- **level2**: 25 points
-- **level3**: 45 points
+Every contributor should remember one thing: Labels on PRs are a must have `gssoc`, `level1` or `level2` or `level3`.
+- `level1`: 10 points
+- `level2`: 25 points
+- `level3`: 45 points
 
-If you reach the top of the leaderboard with small code snippets, repeated copy-paste PRs, or spam PRs, you will only be at the top temporarily as we perform manual checks on suspicious contributions.
+If you reach the top of the leaderboard with small code snippets, repeated copy-paste PRs, or spam PRs, you will be temporarily banned until we perform manual checks on suspicious contributions and reduce score on leaderboard.
 
 ---
 
 ## Important Points for Contributors
 
 - **Meaningful Contributions**: Build your GitHub profile with meaningful badges and PRs.
-- **Manual Verification**: Our team will verify all your PRs.
+- **Manual Verification**: Our team will verify most of your PR, espescially people on the top of leaderboard.
 - **Avoid Spam**: Do not submit spam PRs or address similar issues repeatedly.
-- **GitHub Profile**: Companies will check your GitHub profile for meaningful contributions.
+- **GitHub Profile**: If all of your contributions are meaningful to the projects, we have the potential to increase perks and opportunities including from the existing project admins. 
 
 ---
 
@@ -56,7 +56,7 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
 ## Instructions for Mentors and Project Admins (PAs)
 
 - **Fair Issue Assignment**: Follow a first-come, first-served approach.
-- **Avoid Partiality**: Ensure fair assignment of issues.
+- **Avoid Partiality**: Ensure fair assignment of issues, dont let PR without raising issues.
 - **Single Role Participation**: PAs and Mentors should not contribute to the same projects to avoid conflict of interest.
 - **Inactive Projects**: Projects inactive for more than 2 weeks will be removed.
 
@@ -64,13 +64,13 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
 
 ## How to Detect Spam and Fake Contributions
 
-- **Minimal Changes**: PRs with minimal changes that are not impactful.
+- **Minimal Changes**: PRs with minimal changes that are not impactful and getting level 2 and level 3.
 - **Multiple Roles**: Contributors acting as PAs or Mentors.
 - **Instant PR Acceptance**: PRs accepted instantly without proper review.
 
 ### Report Suspicious Activity
 
-- **Contact**: @sanjay-kv
+- **Raise Discussion for it with PR links**: https://github.com/GSSoC24/Contributor/discussions/categories/q-a
 
 ---
 
@@ -125,23 +125,10 @@ Wishing you all a happy contribution!! 👍
 Thanks & Regards,  
 GSSoC Team
 
-----------------------------
+---------------------------- Detailed description below. 
 
 
-## Guidelines for Contribution.
 
-### Hello contributors, we hope all are doing great,🥇
- 
- Yes, This Year is very special than all previous years, because we have more than 27k contributors not only from India we have some contributors from other countries, and the Highest PR request compared to all other GSSOC events. 
- 
-There have been quite a number of cases recently being noticed that few contributors are gaining very high points for their submission which is not quite an actual contribution.
-
- ![image](https://github.com/GSSoC24/Contributor/assets/30715153/9f7c800e-f28c-4916-919c-cf082d4552fc)
-
- Every contributor should remember one thing. Labels on PR are must `gsooc`, `level1` or `level2` or `level3` where
- * Level1 = 10 points
- * Level2 = 25 points
- * Level 3= 45 points.
 
 If you reach the top of the leaderboard with small code snippets, repeated copy paste PR or spam PRs, you will only be at the top temporarily as we do manual check on suspeciosu contributions. We do manual check on the leaderboard for most of the leaderboard contributions. This is because we promised to give Job Fair and other perks to genuine contributors which include web3 conf tickets as well. Additionally, we assured our partner companies that we would recommend good and skilled contributors. <br>
 
@@ -199,37 +186,4 @@ This is being done keeping everyone in mind for being hardworking enough to cont
 5. Contributors, you are free to create any number of PRs in any repos excluding few repo listed below. Sticking to a particular repo will give you a strong command of the project and the tech stack. However, if we see you spamming PRs or issues, severe action will be taken against you.
 samples: 
 
-Note: We request everyone to follow the above guidelines. We aim to make open source accessible to everyone, including beginners. If you all follow the instructions, it will help us bring more perks to you. Otherwise, it will push us to verify your PRs instead of bringing new opportunities and perks. Please support us and understand the mission of GSSoC. We aim to make our country technically ahead of others and bring out your full potential. Genuine contributions will help you build healthy relationships and secure good jobs. Please help fellow contributors as well. It’s your responsibility to make meaningful contributions, and it’s our responsibility to bring more perks to you. We are planning new opportunities for those who contribute meaningfully instead of spamming PRs or not contributing effectively. Let’s make this year’s GSSoC one with a high number of contributors, meaningful contributions, and exciting perks.
-
-If anyone finds someone violating these rules, please inform us.
-1.  Issue get assigned and once the users do PR, admin close the PR without further information. https://github.com/urstrulynishkarsh/ReactChat/issues/125
-
-
-Unresponsive repo pointed out by contributors: feel free to come back here as I will updating flagged Projects and PR here.
-1. ML-CaPsule
-2. ALL_INDIA_HACKATHON
-3. mystory
-4. FoodiesWeb
-5. https://github.com/ChromeGaming/GameSphere
-6. FitBody
-7. https://github.com/Sahil1786/Petari
-8. Eduford-University.
-9. https://github.com/shrawani21/gamer_21/pull/43
-10. https://github.com/Kavin56/learn-python/pull/1
-11. https://github.com/Rajan-Barnwal/jobproject/issues/248
-12. https://github.com/JiyaGupta-cs/ShopNex/pull/307
-13. https://github.com/bishalde/Shrinkk/pull/65
-14. https://github.com/bishalde/TaskMate/pull/14
-15. https://github.com/juhinagpure/Eduford-university/issues/65
-16. https://github.com/Mayank2808sharma/IRCTC-backend
-17. https://github.com/piug-07/blogzen-OpenSource/pull/167
-18. shrawani21/gamer_21#97
-19. shrawani21/gamer_21#79
-20. https://github.com/Its-Aman-Yadav/Community-Site/pull/289
-
-
-### Wishing you all a happy contribution!! 👍
-Thanks & Regards<br>
-GSSOC Team
-
-
+Note: We request everyone to follow the above guidelines. We aim to make open source accessible to everyone, including beginners. If you all follow the instructions, it will help us bring more perks to you. Otherwise, it will push us to verify your PRs 
