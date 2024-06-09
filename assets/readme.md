@@ -36,19 +36,6 @@ Note: Meaningful contribution means
 10. Contributors, if your code change may affect the repo's functionality but the code is important, then update the README in your PR.
 11. If you are working on migration code, create PRs and issues based on the difficulty of the complete migration work. Discuss with mentors or PAs and create the issue accordingly.
 
-### Spam PRs or PRs Won't consider:
-1. If you create multiple Issues on documentation or workflow. Your PRs won't be considered.
-2. If you know the PA or mentor. If you take advantage of it to make more PRs. Your PRs won't be considered.
-3. If you completely depend on documentation or workflow or GitHub bots, Only the first 200 points will be considered. Focus on a variety of contributions.
-4. If you create a code snippet PR for example a PR for issue template, a PR for PR temple, etc. Your PRs won't be considered. 
-5. Contributors, you are free to create any number of PRs in any repos excluding few repo listed below. Sticking to a particular repo will give you a strong command of the project and the tech stack. However, if we see you spamming PRs or issues, severe action will be taken against you.
-samples: 
-
-Note: We request everyone to follow the above guidelines. We aim to make open source accessible to everyone, including beginners. If you all follow the instructions, it will help us bring more perks to you. Otherwise, it will push us to verify your PRs instead of bringing new opportunities and perks. Please support us and understand the mission of GSSoC. We aim to make our country technically ahead of others and bring out your full potential. Genuine contributions will help you build healthy relationships and secure good jobs. Please help fellow contributors as well. It’s your responsibility to make meaningful contributions, and it’s our responsibility to bring more perks to you. We are planning new opportunities for those who contribute meaningfully instead of spamming PRs or not contributing effectively. Let’s make this year’s GSSoC one with a high number of contributors, meaningful contributions, and exciting perks.
-
-If anyone finds someone violating these rules, please inform us.
-1.  Issue get assigned and once the users do PR, admin close the PR without further information. https://github.com/urstrulynishkarsh/ReactChat/issues/125
-
 
 ## HOW TO DETECT SPAMS AND FAKE CONTRIBUTIONS -
 
@@ -73,6 +60,20 @@ If anyone finds someone violating these rules, please inform us.
 ## Why are we doing this? - 👍
 
 This is being done keeping everyone in mind for being hardworking enough to contribute something meaningful even if it's something small. We are doing this to make this event fair and memorable for all.
+
+### Spam PRs or PRs Won't consider:
+1. If you create multiple Issues on documentation or workflow. Your PRs won't be considered.
+2. If you know the PA or mentor. If you take advantage of it to make more PRs. Your PRs won't be considered.
+3. If you completely depend on documentation or workflow or GitHub bots, Only the first 200 points will be considered. Focus on a variety of contributions.
+4. If you create a code snippet PR for example a PR for issue template, a PR for PR temple, etc. Your PRs won't be considered. 
+5. Contributors, you are free to create any number of PRs in any repos excluding few repo listed below. Sticking to a particular repo will give you a strong command of the project and the tech stack. However, if we see you spamming PRs or issues, severe action will be taken against you.
+samples: 
+
+Note: We request everyone to follow the above guidelines. We aim to make open source accessible to everyone, including beginners. If you all follow the instructions, it will help us bring more perks to you. Otherwise, it will push us to verify your PRs instead of bringing new opportunities and perks. Please support us and understand the mission of GSSoC. We aim to make our country technically ahead of others and bring out your full potential. Genuine contributions will help you build healthy relationships and secure good jobs. Please help fellow contributors as well. It’s your responsibility to make meaningful contributions, and it’s our responsibility to bring more perks to you. We are planning new opportunities for those who contribute meaningfully instead of spamming PRs or not contributing effectively. Let’s make this year’s GSSoC one with a high number of contributors, meaningful contributions, and exciting perks.
+
+If anyone finds someone violating these rules, please inform us.
+1.  Issue get assigned and once the users do PR, admin close the PR without further information. https://github.com/urstrulynishkarsh/ReactChat/issues/125
+
 
 Unresponsive repo pointed out by contributors: feel free to come back here as I will updating flagged Projects and PR here.
 1. ML-CaPsule
