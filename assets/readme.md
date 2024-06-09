@@ -1,3 +1,133 @@
+# GSSoC Contribution Guidelines 🚀
+
+Hello contributors, we hope all are doing great! 🥇
+
+This year is very special compared to previous years because we have more than 27k contributors from various countries, and the highest PR requests compared to all other GSSoC events.
+
+---
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Important Points for Contributors](#important-points-for-contributors)
+3. [Meaningful Contribution Guidelines](#meaningful-contribution-guidelines)
+4. [Instructions for Mentors and Project Admins (PAs)](#instructions-for-mentors-and-project-admins-pas)
+5. [How to Detect Spam and Fake Contributions](#how-to-detect-spam-and-fake-contributions)
+6. [Why We Enforce These Rules](#why-we-enforce-these-rules)
+7. [Flagged Projects and PRs](#flagged-projects-and-prs)
+8. [Final Notes](#final-notes)
+
+---
+
+## Introduction
+
+We've noticed a rise in the number of cases where contributors gain high points for submissions that are not actual contributions.
+
+Every contributor should remember one thing: **Labels on PRs are a must**:
+- **GSSoC**
+- **level1**: 10 points
+- **level2**: 25 points
+- **level3**: 45 points
+
+If you reach the top of the leaderboard with small code snippets, repeated copy-paste PRs, or spam PRs, you will only be at the top temporarily as we perform manual checks on suspicious contributions.
+
+---
+
+## Important Points for Contributors
+
+- **Meaningful Contributions**: Build your GitHub profile with meaningful badges and PRs.
+- **Manual Verification**: Our team will verify all your PRs.
+- **Avoid Spam**: Do not submit spam PRs or address similar issues repeatedly.
+- **GitHub Profile**: Companies will check your GitHub profile for meaningful contributions.
+
+---
+
+## Meaningful Contribution Guidelines
+
+- Beginners can contribute to README files, workflows, or documentation.
+- PRs for README, workflow, or documentation will be evaluated and potentially upgraded based on completeness.
+- Do not create multiple document change issues. Inform the contributor who worked on the documentation for future updates.
+- Follow a first-come, first-served approach for issues.
+- Participate in only one role: PA, Mentor, or Contributor.
+- Inactive projects for more than 2 weeks will be removed.
+
+---
+
+## Instructions for Mentors and Project Admins (PAs)
+
+- **Fair Issue Assignment**: Follow a first-come, first-served approach.
+- **Avoid Partiality**: Ensure fair assignment of issues.
+- **Single Role Participation**: PAs and Mentors should not contribute to the same projects to avoid conflict of interest.
+- **Inactive Projects**: Projects inactive for more than 2 weeks will be removed.
+
+---
+
+## How to Detect Spam and Fake Contributions
+
+- **Minimal Changes**: PRs with minimal changes that are not impactful.
+- **Multiple Roles**: Contributors acting as PAs or Mentors.
+- **Instant PR Acceptance**: PRs accepted instantly without proper review.
+
+### Report Suspicious Activity
+
+- **Contact**: @sanjay-kv
+
+---
+
+## Why We Enforce These Rules
+
+We aim to make this event fair and memorable for all by ensuring that only meaningful contributions are rewarded.
+
+### Non-Considerable PRs
+
+- Multiple documentation or workflow issues.
+- Exploiting personal connections with PAs or Mentors.
+- Repeated documentation or workflow contributions beyond 200 points.
+- Code snippets or template-related PRs.
+
+---
+
+## Flagged Projects and PRs
+
+- **Unresponsive Repos**:
+  - urstrulynishkarsh/ReactChat#125
+  - ML-CaPsule
+  - ALL_INDIA_HACKATHON
+  - mystory
+  - FoodiesWeb
+  - [ChromeGaming/GameSphere](https://github.com/ChromeGaming/GameSphere)
+  - FitBody
+  - [Sahil1786/Petari](https://github.com/Sahil1786/Petari)
+  - Eduford-University
+  - shrawani21/gamer_21#43
+  - Kavin56/learn-python#1
+  - Rajan-Barnwal/jobproject#248
+  - JiyaGupta-cs/ShopNex#307
+  - bishalde/Shrinkk#65
+  - bishalde/TaskMate#14
+  - juhinagpure/Eduford-university#65
+  - [Mayank2808sharma/IRCTC-backend](https://github.com/Mayank2808sharma/IRCTC-backend)
+  - piug-07/blogzen-OpenSource#167
+  - shrawani21/gamer_21#97
+  - shrawani21/gamer_21#79
+  - Its-Aman-Yadav/Community-Site#289
+
+---
+
+## Final Notes
+
+We request everyone to follow the above guidelines. Our aim is to make open source accessible to everyone, including beginners. Genuine contributions will help you build healthy relationships and secure good jobs. Let's make this year’s GSSoC one with a high number of contributors, meaningful contributions, and exciting perks.
+
+If you find someone violating these rules, please inform us.
+
+Wishing you all a happy contribution!! 👍
+
+Thanks & Regards,  
+GSSoC Team
+
+----------------------------
+
+
 ## Guidelines for Contribution.
 
 ### Hello contributors, we hope all are doing great,🥇
