@@ -19,14 +19,13 @@ We value the quality of contributions to our open source projects and want to ma
 
 **Contributors should not be awarded more than 150 points for contributions to the following repositories:**
 
-- machine-learning-repos
-- GGExtensions
-- GameZone
-- codeharborhub.github.io
-- ResourceHub
-- HelpOps-Hub
-- BloxAI
-
+[`machine-learning-repos`](https://github.com/Recode-Hive/machine-learning-repos) 
+[`GGExtensions`](https://github.com/Sulagna-Dutta-Roy/GGExtensions) 
+[`GameZone`](https://github.com/kunjgit/GameZone) 
+[`codeharborhub.github.io`](https://github.com/CodeHarborHub/codeharborhub.github.io) 
+[`ResourceHub`](https://github.com/jfmartinz/ResourceHub) 
+[`HelpOps-Hub`](https://github.com/mdazfar2/HelpOps-Hub) 
+[`BloxAI`](https://github.com/subhadeeproy3902/BloxAI) 
 (More repositories will be added as identified)
 
 ## Detailed Guidelines
