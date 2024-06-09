@@ -54,23 +54,27 @@ If anyone finds someone violating these rules, please inform us.
 
 ## An example of this can be - 🔢
 
-1. Gaining high rep points for submission such as changing -> README.MD to README.md => [https://github.com/jfmartinz/ResourceHub/pull/314]
-2. Contributing to a same project but each PR is having very minimal changes. This could either be changing a line of code (without actually being Impactful) or changes which are not being necessary in the first place. This doesn't have to be strictly in any one project or code, line expect for a typo. => [https://github.com/Suchitra-Sahoo/AgriLearnNetwork/pull/254]
-3. Contributors are being PA as well for some projects. This is where, contributors ask PA to give high levels for very basic changes which is not actually right. => [https://github.com/HimanshuNarware/Devlabs/pull/605]
+1. Gaining high rep points for submission such as changing -> README.MD to README.md and getting levels for it.
+   ![image](https://github.com/GSSoC24/Contributor/assets/30715153/0e8d778d-aae4-412f-be8c-85ef5ad78cc2)
+
+3. Contributing to the same project but each PR is having very minimal changes. This could either be changing a line of code (without actually being Impactful) or changes that are not necessary in the first place. This doesn't have to be strictly in any one project or code, line except for a typo.
+   ![image](https://github.com/GSSoC24/Contributor/assets/30715153/1b11fdcd-6119-4f73-8faa-256883359bea)
+
+5. Contributors are being PA as well for some projects. This is where contributors ask PA to give high levels for very basic changes which is not actually right. 
 
 ## How to detect them - 💯
 
 1. If you find anyone pushing PR with changing a single change which are not necessary in a same project and gaining high reps for it. Kindly let us know @sanjay-kv
-2. If any PA is also accepting PR from any contributor which shouldn't be accepted in the first place or giving high reps or assigning labels which should not be given, kindly let us know @sanjay-kv
+2. If any PA is also accepting PR from any contributor which shouldn't be accepted in the first place or giving high reps or assigning labels that should not be given, kindly let us know @sanjay-kv
 3. Anyone who suspects someone who is contributing at a particular time and his/her PR instantly is getting accepted regardless of being an actual contribution, kindly let us know @sanjay-kv
-4. If anyone who suspects where PA is the contributor itself or vice versa, kindly let us know @sanjay-kv
+4. If anyone who suspects that PA is the contributor itself or vice versa, kindly let us know @sanjay-kv
 5. Even if you find anyone suspicious kindly let us know @sanjay-kv
 
 ## Why are we doing this? - 👍
 
 This is being done keeping everyone in mind for being hardworking enough to contribute something meaningful even if it's something small. We are doing this to make this event fair and memorable for all.
 
-Unresponsive repo pointed out by contributors: 
+Unresponsive repo pointed out by contributors: feel free to come back here as I will updating flagged Projects and PR here.
 1. ML-CaPsule
 2. ALL_INDIA_HACKATHON
 3. mystory
@@ -93,9 +97,8 @@ Unresponsive repo pointed out by contributors:
 20. https://github.com/Its-Aman-Yadav/Community-Site/pull/289
 
 
-## Wishing you all a happy contribution!! 👍
-
-## Thanks & Regards
-## GSSOC Team
+### Wishing you all a happy contribution!! 👍
+Thanks & Regards<br>
+GSSOC Team
 
 
