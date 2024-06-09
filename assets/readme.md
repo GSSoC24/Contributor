@@ -76,10 +76,6 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
 
 ---
 
-## Why We Enforce These Rules
-
-We aim to make this event fair and memorable for all by ensuring that only meaningful contributions are rewarded.
-
 ### Non-Considerable PRs
 
 - Multiple documentation or workflow issues.
@@ -90,7 +86,7 @@ We aim to make this event fair and memorable for all by ensuring that only meani
 ---
 
 
-### HOW TO DETECT SPAMS AND FAKE CONTRIBUTIONS -
+## HOW TO DETECT SPAMS AND FAKE CONTRIBUTIONS -
 
 ## An example of this can be - 🔢
 
@@ -112,6 +108,8 @@ We aim to make this event fair and memorable for all by ensuring that only meani
 4. If anyone who suspects that PA is the contributor itself or vice versa, kindly let us know @sanjay-kv
 5. Even if you find anyone suspicious kindly let us know @sanjay-kv
 
+---
+
 ### Why are we doing this? - 👍
 
 This is being done keeping everyone in mind for being hardworking enough to contribute something meaningful even if it's something small. We are doing this to make this event fair and memorable for all.
@@ -125,7 +123,7 @@ This is being done keeping everyone in mind for being hardworking enough to cont
 samples: 
 
 Note: We request everyone to follow the above guidelines. We aim to make open source accessible to everyone, including beginners. If you all follow the instructions, it will help us bring more perks to you. Otherwise, it will push us to verify your PRs 
-
+---
 
 ## Flagged Projects and PRs
 
