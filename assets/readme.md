@@ -8,16 +8,16 @@ This year is very special compared to previous years because we have more than 2
 ---
 
 ## Table of Contents
+- [Introduction](#introduction)
+- [Important Points for Contributors](#important-points-for-contributors)
+- [Meaningful Contribution Guidelines](#meaningful-contribution-guidelines)
+- [Instructions for Mentors and Project Admins (PAs)](#instructions-for-mentors-and-project-admins-pas)
+- [Report Issues to Us](#report-issues-to-us)
+- [How to Detect Spam Contributions](#how-to-detect-spam-contributions)
+- [Why We Enforce These Rules](#why-we-enforce-these-rules)
+- [Flagged Projects and PRs](#flagged-projects-and-prs)
+- [Final Notes](#final-notes)
 
-1. [Introduction](#introduction)
-2. [Important Points for Contributors](#important-points-for-contributors)
-3. [Meaningful Contribution Guidelines](#meaningful-contribution-guidelines)
-4. [Instructions for Mentors and Project Admins (PAs)](#instructions-for-mentors-and-project-admins-pas)
-5. [Report issues to us](#Report-issues-to-us)
-6. [How to detect spam contributions](#HOW-TO-DETECT-SPAMS-AND-FAKE-CONTRIBUTIONS)
-7. [Why We Enforce These Rules](#why-we-enforce-these-rules)
-8. [Flagged Projects and PRs](#flagged-projects-and-prs)
-9. [Final Notes](#final-notes)
    
 ---
 
