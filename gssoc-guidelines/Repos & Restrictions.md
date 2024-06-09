@@ -2,19 +2,6 @@
 
 We value the quality of contributions to our open source projects and want to maintain a fair and productive environment for all contributors. To ensure this, we have established some guidelines to prevent spamming and misuse of our scoring system.
 
-## Table of Contents
-
-- [Important Notice](#important-notice)
-- [Detailed Guidelines](#detailed-guidelines)
-  - [Point Limit](#point-limit)
-  - [Contribution Quality](#contribution-quality)
-  - [Repository Structure](#repository-structure)
-  - [Misuse Prevention](#misuse-prevention)
-  - [Reporting Issues](#reporting-issues)
-  - [Legitimate Contributions](#legitimate-contributions)
-- [Examples of Quality Contributions](#examples-of-quality-contributions)
-- [Conclusion](#conclusion)
-
 ## Important Notice
 
 **Contributors should not be awarded more than 150 points for contributions to the following repositories:**
