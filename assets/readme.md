@@ -89,10 +89,19 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
 1. Gaining high rep points for submission such as changing -> README.MD to README.md and getting levels for it.
    ![image](https://github.com/GSSoC24/Contributor/assets/30715153/0e8d778d-aae4-412f-be8c-85ef5ad78cc2)
 
-3. Contributing to the same project but each PR is having very minimal changes. This could either be changing a line of code (without actually being Impactful) or changes that are not necessary in the first place. This doesn't have to be strictly in any one project or code, line except for a typo.
+2. Contributing to the same project but each PR is having very minimal changes. This could either be changing a line of code (without actually being Impactful) or changes that are not necessary in the first place. This doesn't have to be strictly in any one project or code, line except for a typo.
    ![image](https://github.com/GSSoC24/Contributor/assets/30715153/1b11fdcd-6119-4f73-8faa-256883359bea)
 
-5. Contributors are being PA as well for some projects. This is where contributors ask PA to give high levels for very basic changes which is not actually right. 
+3. Contributors are being PA as well for some projects. This is where contributors ask PA to give high levels for very basic changes which is not actually right.
+
+4. PA favoring one contributor - This includes assigning level3 for most of the PR, merging PR without review, and no respective issue.
+
+5. We mentioned PAs not to give more than 200 points for below mentioned projects as they are spamming if more than 200 points found in such repo by single contributor level comes down.
+   Click here for more information: https://www.loom.com/share/8f2c5e1f15694c88b3b15f48da600e80?sid=fa8f79a3-21ff-4776-84a0-48952a7601f5
+
+[`machine-learning-repos`](https://github.com/Recode-Hive/machine-learning-repos) 
+
+more list will be added when we find it out.
 
 --- 
 
@@ -162,7 +171,7 @@ GSSoC Team
 ---------------------------- Detailed description below. 👇🏻
 
 
-
+---
 
 If you reach the top of the leaderboard with small code snippets, repeated copy paste PR or spam PRs, you will only be at the top temporarily as we do manual check on suspeciosu contributions. We do manual check on the leaderboard for most of the leaderboard contributions. This is because we promised to give Job Fair and other perks to genuine contributors which include web3 conf tickets as well. Additionally, we assured our partner companies that we would recommend good and skilled contributors. <br>
 
