@@ -13,13 +13,12 @@ This year is very special compared to previous years because we have more than 2
 2. [Important Points for Contributors](#important-points-for-contributors)
 3. [Meaningful Contribution Guidelines](#meaningful-contribution-guidelines)
 4. [Instructions for Mentors and Project Admins (PAs)](#instructions-for-mentors-and-project-admins-pas)
-5. [How to Detect Spam and Fake Contributions](#how-to-detect-spam-and-fake-contributions)
-6. [Why We Enforce These Rules](#why-we-enforce-these-rules)
-7. [How to detect spam contributions](#HOW-TO-DETECT-SPAMS-AND-FAKE-CONTRIBUTIONS)
+5. [Report issues to us](#Report-issues-to-us)
+6. [How to detect spam contributions](#HOW-TO-DETECT-SPAMS-AND-FAKE-CONTRIBUTIONS)
+7. [Why We Enforce These Rules](#why-we-enforce-these-rules)
 8. [Flagged Projects and PRs](#flagged-projects-and-prs)
 9. [Final Notes](#final-notes)
    
-
 ---
 
 ## Introduction
@@ -64,7 +63,7 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
 
 ---
 
-## How to Detect Spam and Fake Contributions
+## Report issues to us
 
 - **Minimal Changes**: PRs with minimal changes that are not impactful and getting level 2 and level 3.
 - **Multiple Roles**: Contributors acting as PAs or Mentors.
@@ -122,7 +121,7 @@ This is being done keeping everyone in mind for being hardworking enough to cont
 5. Contributors, you are free to create any number of PRs in any repos excluding few repo listed below. Sticking to a particular repo will give you a strong command of the project and the tech stack. However, if we see you spamming PRs or issues, severe action will be taken against you.
 samples: 
 
-Note: We request everyone to follow the above guidelines. We aim to make open source accessible to everyone, including beginners. If you all follow the instructions, it will help us bring more perks to you. Otherwise, it will push us to verify your PRs 
+#### Note: We request everyone to follow the above guidelines. We aim to make open source accessible to everyone, including beginners. If you all follow the instructions, it will help us bring more perks to you. Otherwise, it will push us to verify your PRs 
 ---
 
 ## Flagged Projects and PRs
