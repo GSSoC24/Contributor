@@ -95,10 +95,17 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
 3. Contributors are being PA as well for some projects. This is where contributors ask PA to give high levels for very basic changes which is not actually right.
 
 4. PA favoring one contributor - This includes assigning level3 for most of the PR, merging PR without review, and no respective issue.
+![image](https://github.com/GSSoC24/Contributor/assets/30715153/72203ff1-517e-46fc-b068-ba0dcd647e75)[Link to PR code](https://github.com/SyedImtiyaz-1/GetTechProjects/pull/345/files) 
 
 5. We mentioned PAs not to give more than 150 points for below mentioned projects as they are spamming if more than 150 points found in such repo by single contributor level comes down.
    Click here for more information: https://www.loom.com/share/8f2c5e1f15694c88b3b15f48da600e80?sid=fa8f79a3-21ff-4776-84a0-48952a7601f5
 
+[`machine-learning-repos`](https://github.com/Recode-Hive/machine-learning-repos) 
+[`machine-learning-repos`](https://github.com/Recode-Hive/machine-learning-repos) 
+[`machine-learning-repos`](https://github.com/Recode-Hive/machine-learning-repos) 
+[`machine-learning-repos`](https://github.com/Recode-Hive/machine-learning-repos) 
+[`machine-learning-repos`](https://github.com/Recode-Hive/machine-learning-repos) 
+[`machine-learning-repos`](https://github.com/Recode-Hive/machine-learning-repos) 
 [`machine-learning-repos`](https://github.com/Recode-Hive/machine-learning-repos) 
 
 more list will be added when we find it out.
