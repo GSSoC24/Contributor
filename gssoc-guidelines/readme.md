@@ -101,12 +101,12 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
    Click here for more information: https://www.loom.com/share/8f2c5e1f15694c88b3b15f48da600e80?sid=fa8f79a3-21ff-4776-84a0-48952a7601f5
 
 [`machine-learning-repos`](https://github.com/Recode-Hive/machine-learning-repos) 
-[`machine-learning-repos`](https://github.com/Recode-Hive/machine-learning-repos) 
-[`machine-learning-repos`](https://github.com/Recode-Hive/machine-learning-repos) 
-[`machine-learning-repos`](https://github.com/Recode-Hive/machine-learning-repos) 
-[`machine-learning-repos`](https://github.com/Recode-Hive/machine-learning-repos) 
-[`machine-learning-repos`](https://github.com/Recode-Hive/machine-learning-repos) 
-[`machine-learning-repos`](https://github.com/Recode-Hive/machine-learning-repos) 
+[`GGExtensions`](https://github.com/Sulagna-Dutta-Roy/GGExtensions) 
+[`GameZone`](https://github.com/kunjgit/GameZone) 
+[`codeharborhub.github.io`](https://github.com/CodeHarborHub/codeharborhub.github.io) 
+[`ResourceHub`](https://github.com/jfmartinz/ResourceHub) 
+[`HelpOps-Hub`](https://github.com/mdazfar2/HelpOps-Hub) 
+[`BloxAI`](https://github.com/subhadeeproy3902/BloxAI) 
 
 more list will be added when we find it out.
 
