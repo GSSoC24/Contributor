@@ -12,7 +12,8 @@ We value the quality of contributions to our open source projects and want to ma
 [`codeharborhub.github.io`](https://github.com/CodeHarborHub/codeharborhub.github.io) 
 [`ResourceHub`](https://github.com/jfmartinz/ResourceHub) 
 [`HelpOps-Hub`](https://github.com/mdazfar2/HelpOps-Hub) 
-[`BloxAI`](https://github.com/subhadeeproy3902/BloxAI) 
+[`BloxAI`](https://github.com/subhadeeproy3902/BloxAI) <br>
+
 (More repositories will be added as identified)
 
 ## Detailed Guidelines
