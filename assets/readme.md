@@ -96,7 +96,7 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
 
 4. PA favoring one contributor - This includes assigning level3 for most of the PR, merging PR without review, and no respective issue.
 
-5. We mentioned PAs not to give more than 200 points for below mentioned projects as they are spamming if more than 200 points found in such repo by single contributor level comes down.
+5. We mentioned PAs not to give more than 150 points for below mentioned projects as they are spamming if more than 150 points found in such repo by single contributor level comes down.
    Click here for more information: https://www.loom.com/share/8f2c5e1f15694c88b3b15f48da600e80?sid=fa8f79a3-21ff-4776-84a0-48952a7601f5
 
 [`machine-learning-repos`](https://github.com/Recode-Hive/machine-learning-repos) 
