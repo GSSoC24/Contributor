@@ -13,12 +13,11 @@ This year is very special compared to previous years because we have more than 2
 - [Meaningful Contribution Guidelines](#meaningful-contribution-guidelines)
 - [Instructions for Mentors and Project Admins (PAs)](#instructions-for-mentors-and-project-admins-pas)
 - [Report Issues to Us](#report-issues-to-us)
-- [How to Detect Spam Contributions](#how-to-detect-spam-contributions)
+- [How to Detect Spam Contributions](#how-to-detect-spams-and-fake-contributions) 
 - [Why We Enforce These Rules](#why-we-enforce-these-rules)
 - [Flagged Projects and PRs](#flagged-projects-and-prs)
 - [Final Notes](#final-notes)
 
-   
 ---
 
 ## Introduction
@@ -73,8 +72,6 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
 
 - **Raise Discussion for it with PR links**: https://github.com/GSSoC24/Contributor/discussions/categories/q-a
 
----
-
 ### Non-Considerable PRs
 
 - Multiple documentation or workflow issues.
@@ -85,7 +82,7 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
 ---
 
 
-## HOW TO DETECT SPAMS AND FAKE CONTRIBUTIONS -
+## HOW TO DETECT SPAMS AND FAKE CONTRIBUTIONS 
 
 ## An example of this can be - 🔢
 
@@ -99,6 +96,10 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
 
 --- 
 
+### Why are we doing this? - 👍
+
+This is being done keeping everyone in mind for being hardworking enough to contribute something meaningful even if it's something small. We are doing this to make this event fair and memorable for all.
+
 ### How to detect them - 💯
 
 1. If you find anyone pushing PR with changing a single change which are not necessary in a same project and gaining high reps for it. Kindly let us know @sanjay-kv
@@ -108,10 +109,6 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
 5. Even if you find anyone suspicious kindly let us know @sanjay-kv
 
 ---
-
-### Why are we doing this? - 👍
-
-This is being done keeping everyone in mind for being hardworking enough to contribute something meaningful even if it's something small. We are doing this to make this event fair and memorable for all.
 
 ### Spam PRs or PRs Won't consider:
 1. If you create multiple Issues on documentation or workflow. Your PRs won't be considered.
