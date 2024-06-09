@@ -59,9 +59,9 @@ There has been quite a number of cases recently being noticed that few contribut
 
 ## An example of this can be - 🔢
 
-1. Gaining high rep points for submission such as changing -> README.MD to README.md
-2. Contributing to a same project but each PR is having very minimal changes. This could either be changing a line of code (without actually being Impactful) or changes which are not being necessary in the first place. This doesn't have to be strictly in any one project or code, line expect for a typo.
-3. Contributors are being PA as well for some projects. This is where, contributors ask PA to give high levels for very basic changes which is not actually right.
+1. Gaining high rep points for submission such as changing -> README.MD to README.md => [https://github.com/jfmartinz/ResourceHub/pull/314]
+2. Contributing to a same project but each PR is having very minimal changes. This could either be changing a line of code (without actually being Impactful) or changes which are not being necessary in the first place. This doesn't have to be strictly in any one project or code, line expect for a typo. => [https://github.com/Suchitra-Sahoo/AgriLearnNetwork/pull/254]
+3. Contributors are being PA as well for some projects. This is where, contributors ask PA to give high levels for very basic changes which is not actually right. => [https://github.com/HimanshuNarware/Devlabs/pull/605]
 
 ## How to detect them - 💯
 
