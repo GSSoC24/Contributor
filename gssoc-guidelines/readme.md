@@ -120,7 +120,7 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
 [`CalcDiverse`](https://github.com/Rakesh9100/CalcDiverse) 
 [`GetTechProjects`](https://github.com/SyedImtiyaz-1/GetTechProjects) 
 [`SwapReads`](https://github.com/anuragverma108/SwapReads) 
-[`learn-python`](https://github.com/animator/learn-python) 
+[`learn-python`](https://github.com/animator/learn-python) <br>
 more list will be added when we find it out.
 
 --- 
