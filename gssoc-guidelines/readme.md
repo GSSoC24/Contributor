@@ -112,7 +112,15 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
 [`ResourceHub`](https://github.com/jfmartinz/ResourceHub) 
 [`HelpOps-Hub`](https://github.com/mdazfar2/HelpOps-Hub) 
 [`BloxAI`](https://github.com/subhadeeproy3902/BloxAI) 
-
+[`ML-CaPsule`](https://github.com/Niketkumardheeryan/ML-CaPsule) 
+[`APIVerse`](https://github.com/dishamodi0910/APIVerse) 
+[`ChromeGaming`](https://github.com/ChromeGaming) 
+[`DL-Simplified`](https://github.com/abhisheks008/DL-Simplified) 
+[`GetTechProjects`](https://github.com/SyedImtiyaz-1/GetTechProjects) 
+[`CalcDiverse`](https://github.com/Rakesh9100/CalcDiverse) 
+[`GetTechProjects`](https://github.com/SyedImtiyaz-1/GetTechProjects) 
+[`SwapReads`](https://github.com/anuragverma108/SwapReads) 
+[`learn-python`](https://github.com/animator/learn-python) 
 more list will be added when we find it out.
 
 --- 
