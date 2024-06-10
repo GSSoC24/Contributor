@@ -120,7 +120,9 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
 [`CalcDiverse`](https://github.com/Rakesh9100/CalcDiverse) 
 [`GetTechProjects`](https://github.com/SyedImtiyaz-1/GetTechProjects) 
 [`SwapReads`](https://github.com/anuragverma108/SwapReads) 
-[`learn-python`](https://github.com/animator/learn-python) <br>
+[`learn-python`](https://github.com/animator/learn-python) 
+[`awesome-open-source-flutter-apps`](https://github.com/fluttergems/awesome-open-source-flutter-apps?tab=readme-ov-file) 
+[`ThereForYou`](https://github.com/TAHIR0110/ThereForYou) <br>
 more list will be added when we find it out.
 
 --- 
