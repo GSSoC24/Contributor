@@ -120,10 +120,11 @@ more list will be added when we find it out.
 ### Why are we doing this? - 👍
 
 This is being done keeping everyone in mind for being hardworking enough to contribute something meaningful even if it's something small. We are doing this to make this event fair and memorable for all.
-
+- Right now we noticed spamming could have happened due to a lack of written guidelines, so for those who people did it, we will be allowing 200 points to gain from merging PR with official Emails and remove other scores.
+- Those who do spam after publishing the guidelines, if we notice we will further level down without any notice. 
 ### How to detect them - 💯
 
-1. If you find anyone pushing PR with changing a single change which are not necessary in a same project and gaining high reps for it. Kindly let us know . [report here](https://github.com/GSSoC24/Contributor/discussions/categories/q-a)
+1. If you find anyone pushing PR with changing a single change which are not necessary in a same project and gaining high reps for it. Kindly let us know. [report here](https://github.com/GSSoC24/Contributor/discussions/categories/q-a)
 2. If any PA is also accepting PR from any contributor which shouldn't be accepted in the first place or giving high reps or assigning labels that should not be given, [kindly let us know](https://github.com/GSSoC24/Contributor/discussions/categories/q-a)
 4. Anyone who suspects someone who is contributing at a particular time and his/her PR instantly is getting accepted regardless of being an actual contribution, kindly let us know [report here](https://github.com/GSSoC24/Contributor/discussions/categories/q-a)
 5. If anyone suspects that PA is the contributor itself or vice versa, kindly let us know @sanjay-kv
