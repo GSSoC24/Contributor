@@ -111,7 +111,6 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
 [`codeharborhub.github.io`](https://github.com/CodeHarborHub/codeharborhub.github.io) 
 [`ResourceHub`](https://github.com/jfmartinz/ResourceHub) 
 [`HelpOps-Hub`](https://github.com/mdazfar2/HelpOps-Hub) 
-[`BloxAI`](https://github.com/subhadeeproy3902/BloxAI) 
 [`ML-CaPsule`](https://github.com/Niketkumardheeryan/ML-CaPsule) 
 [`APIVerse`](https://github.com/dishamodi0910/APIVerse) 
 [`ChromeGaming`](https://github.com/ChromeGaming) 
