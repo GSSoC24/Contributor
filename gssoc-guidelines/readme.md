@@ -127,7 +127,9 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
 [`SwapReads`](https://github.com/anuragverma108/SwapReads) 
 [`learn-python`](https://github.com/animator/learn-python) 
 [`awesome-open-source-flutter-apps`](https://github.com/fluttergems/awesome-open-source-flutter-apps?tab=readme-ov-file) 
-[`ThereForYou`](https://github.com/TAHIR0110/ThereForYou) <br>
+[`ThereForYou`](https://github.com/TAHIR0110/ThereForYou) 
+<br>
+
 more list will be added when we find it out.
 This limit is for the doucmentation updates, adding library folders , adding muliple projects to the website (kinda advanced version on library adding to repos, any technical functionality can be added above 150 points in these repos. 
 --- 
