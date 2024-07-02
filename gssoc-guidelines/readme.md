@@ -110,7 +110,7 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
 
 7. Working beyond the repository. Example, Raising a PR on repo and getting level3 or 2 and mention the work done in different repo like server creation etc.
    All the work should be attached and explained in the Pr if it beyond any other repo. 
-![image](https://github.com/GSSoC24/Contributor/assets/30715153/2bf2dcff-35fe-4076-a743-6639a5080d20)
+![image](https://github.com/GSSoC24/Contributor/assets/30715153/632fae36-e58a-438a-96f0-65f9a01f3d72)
 
 8. We mentioned PAs not to give more than 150 points for below mentioned projects as they are spamming if more than 150 points found in such repo by single contributor level comes down.
    Click here for more information: [Watch the video Explanation](https://www.loom.com/share/8f2c5e1f15694c88b3b15f48da600e80?sid=fa8f79a3-21ff-4776-84a0-48952a7601f5)
