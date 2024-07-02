@@ -105,8 +105,9 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
 5. Raising multiple Workflow issue like this, contributor can raise one single and issue or PR and get all workflows done in level 2. Gettting levels for individual PR for Workflow is not allowed.
 ![image](https://github.com/GSSoC24/Contributor/assets/30715153/54fe969a-a3dd-41f2-b39b-1b70ca3e1f5b)
 
-6. Raising multiple Workflow issue like this, contributor can raise one single and issue or PR and get all workflows done in level 2. Gettting levels for individual PR for Workflow is not allowed.
-![image](https://github.com/GSSoC24/Contributor/assets/30715153/54fe969a-a3dd-41f2-b39b-1b70ca3e1f5b)
+6. Getting level3 for fixing bugs, for example the below is the deployment created in previous with level3, not the same user is getting fixing bug in deploymnet level3 again, max you can provide is level1 if code changes is less no levels should be provided.
+![image](https://github.com/GSSoC24/Contributor/assets/30715153/cc0df05a-19db-4029-b690-16c8423f463d)
+
 
 7. We mentioned PAs not to give more than 150 points for below mentioned projects as they are spamming if more than 150 points found in such repo by single contributor level comes down.
    Click here for more information: [Watch the video Explanation](https://www.loom.com/share/8f2c5e1f15694c88b3b15f48da600e80?sid=fa8f79a3-21ff-4776-84a0-48952a7601f5)
