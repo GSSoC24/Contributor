@@ -132,6 +132,8 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
 [`learn-python`](https://github.com/animator/learn-python) 
 [`awesome-open-source-flutter-apps`](https://github.com/fluttergems/awesome-open-source-flutter-apps?tab=readme-ov-file) 
 [`ThereForYou`](https://github.com/TAHIR0110/ThereForYou) 
+[`DevLabs`](https://github.com/HimanshuNarware/Devlabs) 
+
 <br>
 
 more list will be added when we find it out.
