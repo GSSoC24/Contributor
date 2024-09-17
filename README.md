@@ -1,21 +1,22 @@
 
 ## For Contributors
 
-GSSoC is a 3-month long #OpenSource program by GirlScript Foundation, India. <br>
+**GSSoC** is a 3-month long #OpenSource program by the GirlScript Foundation, India. <br>
+**GSSoC Extended** is a 1-month program to allow the people who missed an opportunity to contribute to gssoc <br>
 This is Contributor Space where all the relevant link regarding your doubts. 
 #### Make sure you star the repository before forking this is the way to show 💖 to the owner of the repository. 
 
 - If you have questions ask here -> :https://github.com/GSSoC24/Contributor/discussions
-- Mentor Assigned to the Project List: https://bit.ly/3UVRkgM
-- Regarding Certificate after participation: https://github.com/GSSoC24/Contributor/discussions/33
-- If you haven't received the Confirmation Mail: https://github.com/GSSoC24/Contributor/discussions/96
+- Mentor Assigned to the Project List: N/A
+- Regarding Certificate after participation: N/A
+- If you haven't received the Confirmation Mail: N/A
 - How to contribute: https://github.com/GSSoC24/Contributor/discussions/34.
 - How to start with GitHub https://recodehive.com/github-tutorials/
 - blog to read https://gssoc.girlscript.tech/blog
-- Removed Projects: https://docs.google.com/spreadsheets/d/1lcbwU8sfrc-tUOe3spcLMb2uW2W8joGI6BM-ZetDehY/edit?usp=sharing
-- Selected Active Projects: https://docs.google.com/spreadsheets/d/1owUjczBew3FgLWqW73ND96raatUCkJZtytjjZBlK7cI/edit?usp=sharing
+- Removed Projects: N/A
+- Selected Active Projects: N/A
 
-Issue will be assigned to Only 1 person ...FCFS basis. Others get a chance if the issue gets stale & the assignee is inactive for 5+ days
+**Issue will be assigned to Only 1 person ...FCFS (First Come First Serve) basis. Others get a chance if the issue gets stale & the assignee is inactive for 5+ days**
 
 ## How to Start Contributing: 
 
