@@ -15,6 +15,7 @@ This is Contributor Space where all the relevant link regarding your doubts.
 - blog to read https://gssoc.girlscript.tech/blog
 - Removed Projects: N/A
 - Selected Active Projects: N/A
+- GSSOC Academy - https://academy.girlscript.tech/gssoc
 
 **Issue will be assigned to Only 1 person ...FCFS (First Come First Serve) basis. Others get a chance if the issue gets stale & the assignee is inactive for 5+ days**
 
