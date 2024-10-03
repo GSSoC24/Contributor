@@ -8,16 +8,16 @@ I’m [Sanjay](https://github.com/sanjay-kv), your Senior Program Manager, and I
 Make sure to follow each other on GitHub. It’s like LinkedIn for developers! 💼 This way, we can see each other’s contributions and interact. 
 
 >[!IMPORTANT] 
-> [Mentors List assigned to PAs](https://docs.google.com/spreadsheets/d/1fNNXgLIqSfywHqFe7nVSHgm7FhaxAKi-acOfXjtDv_M/edit?usp=sharing) : List of Projects assigned to Mentors (Contributors can use this to find Mentors)
->[GSSOC Leaderboard](https://gssoc.girlscript.tech/leaderboard) : Place where you can see the score and PR summary (Opens OCT 5 5:00pm)
->[Ask your Queries](https://github.com/orgs/GSSoC24/discussions/new/choose) : Use only this link to ask query to get answered in ETA 15 min.
->[Download Onboarding badge](https://gssoc.girlscript.tech/badgeId) : Get your badge and share it on social media
->[Learn GitHub from Scratch](https://academy.girlscript.tech/gssoc) : Complete video tutorials on how to get started with GitHub
->[Guidelines to contribute](https://github.com/GSSoC24/Contributor/tree/main/gssoc-guidelines) : Guidelines and restrictions : Must Read
->[Flag Projects & Mentors ](https://github.com/orgs/GSSoC24/discussions/800) : Contributors can use the link to flag spam projects and mentors.
->[Learn about the Leaderboard and badge](https://github.com/orgs/GSSoC24/discussions/288) : Understand how the leaderboard and contribution works.
->[Common FAQ & answers](https://gssoc.girlscript.tech/faq) : Listing most popular common FAQ & Answers
->[Missed any Live streams](https://www.youtube.com/@girlscriptfoundation45) : Watch the past live stream.
+> [Mentors List assigned to PAs](https://docs.google.com/spreadsheets/d/1fNNXgLIqSfywHqFe7nVSHgm7FhaxAKi-acOfXjtDv_M/edit?usp=sharing) : List of Projects assigned to Mentors (Contributors can use this to find Mentors)<br>
+>[GSSOC Leaderboard](https://gssoc.girlscript.tech/leaderboard) : Place where you can see the score and PR summary (Opens OCT 5 5:00pm)<br>
+>[Ask your Queries](https://github.com/orgs/GSSoC24/discussions/new/choose) : Use only this link to ask query to get answered in ETA 15 min.<br>
+>[Download Onboarding badge](https://gssoc.girlscript.tech/badgeId) : Get your badge and share it on social media<br>
+>[Learn GitHub from Scratch](https://academy.girlscript.tech/gssoc) : Complete video tutorials on how to get started with GitHub<br>
+>[Guidelines to contribute](https://github.com/GSSoC24/Contributor/tree/main/gssoc-guidelines) : Guidelines and restrictions : Must Read<br>
+>[Flag Projects & Mentors ](https://github.com/orgs/GSSoC24/discussions/800) : Contributors can use the link to flag spam projects and mentors.<br>
+>[Learn about the Leaderboard and badge](https://github.com/orgs/GSSoC24/discussions/288) : Understand how the leaderboard and contribution works.<br>
+>[Common FAQ & answers](https://gssoc.girlscript.tech/faq) : Listing most popular common FAQ & Answers<br>
+>[Missed any Live streams](https://www.youtube.com/@girlscriptfoundation45) : Watch the past live stream.<br>
 
 >[!Note] 
 >  Leaderboard Opens : [Oct 5th 2024]() 
