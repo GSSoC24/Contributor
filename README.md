@@ -1,21 +1,31 @@
 
 ## For Contributors
 
-**GSSoC** is a 3-month long #OpenSource program by the GirlScript Foundation, India. <br>
-**GSSoC Extended** is a 1-month program to allow the people who missed an opportunity to contribute to gssoc <br>
-This is Contributor Space where all the relevant link regarding your doubts. 
-#### Make sure you star the repository before forking this is the way to show 💖 to the owner of the repository. 
+I’m [Sanjay](https://github.com/sanjay-kv), your Senior Program Manager, and I'm thrilled to have you all here at gssoc-ext 2024 ✨
+ We received tons of applications, and you all stood out as the best. 👏 Congrats on being selected!
 
-- If you have questions ask here -> :https://github.com/GSSoC24/Contributor/discussions
-- Mentor Assigned to the Project List: N/A
-- Regarding Certificate after participation: N/A
-- If you haven't received the Confirmation Mail: N/A
-- How to contribute: https://github.com/GSSoC24/Contributor/discussions/34.
-- How to start with GitHub https://recodehive.com/github-tutorials/
-- blog to read https://gssoc.girlscript.tech/blog
-- Removed Projects: N/A
-- Selected Active Projects: N/A
-- GSSOC Academy - https://academy.girlscript.tech/gssoc
+🔗[Let’s Connect!](https://github.com/sanjay-kv)
+Make sure to follow each other on GitHub. It’s like LinkedIn for developers! 💼 This way, we can see each other’s contributions and interact. 
+
+>[!IMPORTANT] 
+> [Mentors List assigned to PAs](https://docs.google.com/spreadsheets/d/1fNNXgLIqSfywHqFe7nVSHgm7FhaxAKi-acOfXjtDv_M/edit?usp=sharing) : List of Projects assigned to Mentors (Contributors can use this to find Mentors)
+>[GSSOC Leaderboard](https://gssoc.girlscript.tech/leaderboard) : Place where you can see the score and PR summary (Opens OCT 5 5:00pm)
+>[Ask your Queries](https://github.com/orgs/GSSoC24/discussions/new/choose) : Use only this link to ask query to get answered in ETA 15 min.
+>[Download Onboarding badge](https://gssoc.girlscript.tech/badgeId) : Get your badge and share it on social media
+>[Learn GitHub from Scratch](https://academy.girlscript.tech/gssoc) : Complete video tutorials on how to get started with GitHub
+>[Guidelines to contribute](https://github.com/GSSoC24/Contributor/tree/main/gssoc-guidelines) : Guidelines and restrictions : Must Read
+>[Flag Projects & Mentors ](https://github.com/orgs/GSSoC24/discussions/800) : Contributors can use the link to flag spam projects and mentors.
+>[Learn about the Leaderboard and badge](https://github.com/orgs/GSSoC24/discussions/288) : Understand how the leaderboard and contribution works.
+>[Common FAQ & answers](https://gssoc.girlscript.tech/faq) : Listing most popular common FAQ & Answers
+>[Missed any Live streams](https://www.youtube.com/@girlscriptfoundation45) : Watch the past live stream.
+
+>[!Note] 
+>  Leaderboard Opens : [Oct 5th 2024]() 
+>  Contributor registration closes : [Oct 10th 2024]()
+>  Program closes : [Oct 31th 2024]()
+>  Result Announce : [Nov 10th 2024]()
+>  Closing Ceremony : [Nov 10th 2024]() 
+---
 
 **Issue will be assigned to Only 1 person ...FCFS (First Come First Serve) basis. Others get a chance if the issue gets stale & the assignee is inactive for 5+ days**
 
