@@ -116,23 +116,6 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
    Click here for more information: [Watch the video Explanation](https://www.loom.com/share/8f2c5e1f15694c88b3b15f48da600e80?sid=fa8f79a3-21ff-4776-84a0-48952a7601f5)
 
 [`machine-learning-repos`](https://github.com/Recode-Hive/machine-learning-repos) 
-[`GGExtensions`](https://github.com/Sulagna-Dutta-Roy/GGExtensions) 
-[`GameZone`](https://github.com/kunjgit/GameZone) 
-[`codeharborhub.github.io`](https://github.com/CodeHarborHub/codeharborhub.github.io) 
-[`ResourceHub`](https://github.com/jfmartinz/ResourceHub) 
-[`HelpOps-Hub`](https://github.com/mdazfar2/HelpOps-Hub) 
-[`ML-CaPsule`](https://github.com/Niketkumardheeryan/ML-CaPsule) 
-[`APIVerse`](https://github.com/dishamodi0910/APIVerse) 
-[`ChromeGaming`](https://github.com/ChromeGaming) 
-[`DL-Simplified`](https://github.com/abhisheks008/DL-Simplified) 
-[`GetTechProjects`](https://github.com/SyedImtiyaz-1/GetTechProjects) 
-[`CalcDiverse`](https://github.com/Rakesh9100/CalcDiverse) 
-[`GetTechProjects`](https://github.com/SyedImtiyaz-1/GetTechProjects) 
-[`SwapReads`](https://github.com/anuragverma108/SwapReads) 
-[`learn-python`](https://github.com/animator/learn-python) 
-[`awesome-open-source-flutter-apps`](https://github.com/fluttergems/awesome-open-source-flutter-apps?tab=readme-ov-file) 
-[`ThereForYou`](https://github.com/TAHIR0110/ThereForYou) 
-[`DevLabs`](https://github.com/HimanshuNarware/Devlabs) 
 
 <br>
 
@@ -170,26 +153,6 @@ samples:
 
 - **Unresponsive Repos**:
   - urstrulynishkarsh/ReactChat#125
-  - ML-CaPsule
-  - ALL_INDIA_HACKATHON
-  - mystory
-  - FoodiesWeb
-  - [ChromeGaming/GameSphere](https://github.com/ChromeGaming/GameSphere)
-  - FitBody
-  - [Sahil1786/Petari](https://github.com/Sahil1786/Petari)
-  - Eduford-University
-  - shrawani21/gamer_21#43
-  - Kavin56/learn-python#1
-  - Rajan-Barnwal/jobproject#248
-  - JiyaGupta-cs/ShopNex#307
-  - bishalde/Shrinkk#65
-  - bishalde/TaskMate#14
-  - juhinagpure/Eduford-university#65
-  - [Mayank2808sharma/IRCTC-backend](https://github.com/Mayank2808sharma/IRCTC-backend)
-  - piug-07/blogzen-OpenSource#167
-  - shrawani21/gamer_21#97
-  - shrawani21/gamer_21#79
-  - Its-Aman-Yadav/Community-Site#289
 
 ---
 
