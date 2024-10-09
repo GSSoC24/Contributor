@@ -1,0 +1,15 @@
+# Lines starting with '#' are comments.
+# Each line is a file pattern followed by one or more owners.
+
+
+# The '*' pattern is global owners.
+
+# Global rule:
+*.js           @sanjay-kv
+
+# Reademe Files:
+*.md @sanjay-kv
+
+*.css @sanjay-kv 
+
+*.html @sanjay-kv
