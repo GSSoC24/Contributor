@@ -39,7 +39,6 @@ We value the quality of contributions to our open source projects and want to ma
 
 - Contributions should be meaningful and add value to the project.
 - Simple additions, such as downloading a Python file from ChatGPT and uploading it, do not qualify as valuable contributions.
-- 
 
 ### Repository Structure
 
