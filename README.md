@@ -2,7 +2,7 @@
 ## For Contributors
 
 I’m [Sanjay](https://github.com/sanjay-kv), your Senior Program Manager, and I'm thrilled to have you all here at gssoc-ext 2024 ✨
- We received tons of applications, and you all stood out as the best. 👏 Congrats on being selected!
+ We received tons of applications, and you all stood out as the best. 👏 Congrats on being selected! .
 
 🔗[Let’s Connect!](https://github.com/sanjay-kv)
 Make sure to follow each other on GitHub. It’s like LinkedIn for developers! 💼 This way, we can see each other’s contributions and interact. 
