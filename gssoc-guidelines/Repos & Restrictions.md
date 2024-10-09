@@ -4,15 +4,24 @@ We value the quality of contributions to our open source projects and want to ma
 
 ## Important Notice
 
-**Contributors should not be awarded more than 150 points for contributions to the following repositories:**
+**Contributors should not be awarded more than 200 points for contributions to the following repositories:**
 
-[`machine-learning-repos`](https://github.com/Recode-Hive/machine-learning-repos) 
-[`GGExtensions`](https://github.com/Sulagna-Dutta-Roy/GGExtensions) 
-[`GameZone`](https://github.com/kunjgit/GameZone) 
-[`codeharborhub.github.io`](https://github.com/CodeHarborHub/codeharborhub.github.io) 
-[`ResourceHub`](https://github.com/jfmartinz/ResourceHub) 
-[`HelpOps-Hub`](https://github.com/mdazfar2/HelpOps-Hub) 
-[`BloxAI`](https://github.com/subhadeeproy3902/BloxAI) <br>
+- [master-web-development](https://github.com/iamrahulmahato/master-web-development)
+- [Frontend_Mentor](https://github.com/beRajeevKumar/Frontend_Mentor)
+- [AlgoGenesis](https://github.com/AlgoGenesis/C)
+- [DL-Simplified](https://github.com/abhisheks008/DL-Simplified)
+- [ML-Nexus](https://github.com/UppuluriKalyani/ML-Nexus)
+- [Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+- [Collect-your-GamingTools](https://github.com/swaraj-das/Collect-your-GamingTools)
+- [Computer-Vision-Projects](https://github.com/Aryan-Chharia/Computer-Vision-Projects)
+- [ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule)
+- [create-my-api](https://github.com/Puskar-Roy/create-my-api)
+- [Stock-Price-Prediction](https://github.com/rohitinu6/Stock-Price-Prediction)
+- [HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub)
+- [PyVerse](https://github.com/UTSAVS26/PyVerse)
+- [machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
+- [PySnippets](https://github.com/UTSAVS26/PySnippets)
+- [predictive-calc](https://github.com/yashasvini121/predictive-calc)<br>
 
 (More repositories will be added as identified)
 
@@ -20,13 +29,17 @@ We value the quality of contributions to our open source projects and want to ma
 
 ### Point Limit
 
-- A single contributor can earn a maximum of 150 points for contributions to the repositories listed above.
-- Contributions exceeding 150 points in these repositories will result in a reduction of the contributor's level.
+- A single contributor can earn a maximum of 200 points for contributions to the repositories listed above.
+- Contributions exceeding 200 points in these repositories will result in a reduction of the contributor's level.
+- Updates to documentation are also subject to the 200-point limit.
+- Contributions related to deployment have no restrictions.
+- Achieving Level 3 by simply repeating the same deployment is not accepted.
 
 ### Contribution Quality
 
 - Contributions should be meaningful and add value to the project.
 - Simple additions, such as downloading a Python file from ChatGPT and uploading it, do not qualify as valuable contributions.
+- 
 
 ### Repository Structure
 
