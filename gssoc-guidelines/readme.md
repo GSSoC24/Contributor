@@ -116,7 +116,24 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
    Click here for more information: [Watch the video Explanation](https://www.loom.com/share/8f2c5e1f15694c88b3b15f48da600e80?sid=fa8f79a3-21ff-4776-84a0-48952a7601f5)
 
 [`machine-learning-repos`](https://github.com/Recode-Hive/machine-learning-repos) 
-
+`master-web-development`
+`Frontend_Mentor`
+`AlgoGenesis`
+`DL-Simplified`
+`ML-Nexus`
+`Project-Guidance`
+`Collect-your-GamingTools`
+`Computer-Vision-Projects`
+`ML-CaPsule`
+`create-my-api`
+`Stock-Price-Prediction`
+`HelpOps-Hub`
+`PyVerse`
+`machine-learning-repos`
+`PySnippets`
+`predictive-calc`
+`algo`
+`AgroTech-AI`
 <br>
 
 more list will be added when we find it out.
