@@ -112,7 +112,7 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
    All the work should be attached and explained in the Pr if it beyond any other repo. 
 ![image](https://github.com/GSSoC24/Contributor/assets/30715153/632fae36-e58a-438a-96f0-65f9a01f3d72)
 
-8. We mentioned PAs not to give more than 150 points for below mentioned projects as they are spamming if more than 150 points found in such repo by single contributor level comes down.
+8. We mentioned PAs not to give more than 200 points for below mentioned projects as they are spamming if more than 200 points found in such repo by single contributor level comes down.
    Click here for more information: [Watch the video Explanation](https://www.loom.com/share/8f2c5e1f15694c88b3b15f48da600e80?sid=fa8f79a3-21ff-4776-84a0-48952a7601f5)
 
 [`machine-learning-repos`](https://github.com/Recode-Hive/machine-learning-repos) 
