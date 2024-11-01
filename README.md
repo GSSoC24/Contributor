@@ -18,7 +18,7 @@ This is the all in one place for documentation help regarding the postman challe
 </div>
 
 
-I’m [Sanjay](https://github.com/sanjay-kv), your Senior Program Manager, and I'm thrilled to have you all here at gssoc-ext 2024 ✨<br>
+I’m [Sanjay](https://github.com/sanjay-kv), your Senior Program Manager, and I'm thrilled to have you all here at gssoc-ext 2024 ✨
  We received tons of applications, and you all stood out as the best. 👏 Congrats on being selected! .<br>
  - **Remember: Collaboration First, Code 2nd**
 
