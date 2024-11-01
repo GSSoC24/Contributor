@@ -12,7 +12,7 @@
 <a href="https://github.com/GSSoC24/Contributor/issues"><img src="https://img.shields.io/github/issues/GSSoC24/Contributor" alt="Issues Badge"/></a>
 <a href="https://github.com/GSSoC24/Contributor/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/GSSoC24/Contributor?color=2b9348"></a>
 <a href="https://github.com/GSSoC24/Contributor/blob/master/LICENSE"><img src="https://img.shields.io/github/license/GSSoC24/Contributor?color=2b9348" alt="License Badge"/></a>
-[![](https://visitcount.itsvg.in/api?id=gssoc-postman&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=contributor-gssoc&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This is the all in one place for documentation help regarding the postman challenge.
 </div>
@@ -153,3 +153,12 @@ This is how it should look like,
 -  how many PRs should be merged in to maintain positions on the leaderboard?
 -   Ans: its not above PR, the best way to maintain position on leaderboard is contribute to high difficult issue raised by maintainer.
       As mentioned above Level 1, level 2, level 3 helps them to maintain their position rather pushing many PR as the score is high for levels
+
+    <div align="center">
+
+### GirlScript Summer of Code Extended 2024
+
+[Website](https://gssoc.girlscript.tech/) | [Instagram](https://www.instagram.com/girlscriptsummerofcode/?hl=en) | [LinkedIn](https://www.linkedin.com/company/girlscriptsoc) | [Twitter](https://twitter.com/girlscriptsoc) | [YouTube](https://www.youtube.com/@girlscriptfoundation45)
+
+</div>
+
