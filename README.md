@@ -1,10 +1,28 @@
 
-## For Contributors
 
-I’m [Sanjay](https://github.com/sanjay-kv), your Senior Program Manager, and I'm thrilled to have you all here at gssoc-ext 2024 ✨
- We received tons of applications, and you all stood out as the best. 👏 Congrats on being selected! .
+<h1 align="center">GSSOC Contributors Repo</h1>
+<div align="center">
+  
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
-🔗[Let’s Connect!](https://github.com/sanjay-kv)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<a href="https://github.com/GSSoC24/Contributor/stargazers"><img src="https://img.shields.io/github/stars/GSSoC24/Contributor" alt="Stars Badge"/></a>
+<a href="https://github.com/GSSoC24/Contributor/network/members"><img src="https://img.shields.io/github/forks/GSSoC24/Contributor" alt="Forks Badge"/></a>
+<a href="https://github.com/GSSoC24/Contributor/pulls"><img src="https://img.shields.io/github/issues-pr/GSSoC24/Contributor" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/GSSoC24/Contributor/issues"><img src="https://img.shields.io/github/issues/GSSoC24/Contributor" alt="Issues Badge"/></a>
+<a href="https://github.com/GSSoC24/Contributor/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/GSSoC24/Contributor?color=2b9348"></a>
+<a href="https://github.com/GSSoC24/Contributor/blob/master/LICENSE"><img src="https://img.shields.io/github/license/GSSoC24/Contributor?color=2b9348" alt="License Badge"/></a>
+[![](https://visitcount.itsvg.in/api?id=gssoc-postman&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+This is the all in one place for documentation help regarding the postman challenge.
+</div>
+
+
+I’m [Sanjay](https://github.com/sanjay-kv), your Senior Program Manager, and I'm thrilled to have you all here at gssoc-ext 2024 ✨<br>
+ We received tons of applications, and you all stood out as the best. 👏 Congrats on being selected! .<br>
+ - **Remember: Collaboration First, Code 2nd**
+
+ - 🔗[Let’s Connect!](https://github.com/sanjay-kv)
 Make sure to follow each other on GitHub. It’s like LinkedIn for developers! 💼 This way, we can see each other’s contributions and interact. 
 
 >[!IMPORTANT] 
@@ -33,8 +51,9 @@ Make sure to follow each other on GitHub. It’s like LinkedIn for developers! �
 
 🌟 How to Contribute to GSSoC Projects: A Step-by-Step Guide 🌟
 
-Must watch the youtube link on Guidelines: https://youtu.be/Y9PYaPZgikg <br>
-![Sanjay Viswanathan Event](https://github.com/GSSoC24/Contributor/assets/30715153/77414867-2ffa-4a82-ba9a-d5a11a8334ea)
+Must watch the youtube link on Guidelines:<a href="https://www.youtube.com/watch?v=580uUo9BATM&t=681s&ab_channel=GirlScriptFoundation">
+![Sanjay Viswanathan Event](https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Live%20Session%20(3).png)</a>
+<br>
 
 A: Choosing Projects
 
