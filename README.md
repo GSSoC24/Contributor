@@ -153,7 +153,7 @@ This is how it should look like,
 -  how many PRs should be merged in to maintain positions on the leaderboard?
 -   Ans: its not above PR, the best way to maintain position on leaderboard is contribute to high difficult issue raised by maintainer.
       As mentioned above Level 1, level 2, level 3 helps them to maintain their position rather pushing many PR as the score is high for levels
-
+</div>
     <div align="center">
 
 ### GirlScript Summer of Code Extended 2024
